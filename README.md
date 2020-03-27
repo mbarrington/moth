@@ -1,0 +1,1 @@
+Moth is a customizable bug tracking software written in Python.  
